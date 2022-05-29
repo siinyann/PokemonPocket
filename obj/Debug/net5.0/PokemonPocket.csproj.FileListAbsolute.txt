@@ -1,0 +1,32 @@
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\obj\Debug\net5.0\PokemonPocket.csproj.AssemblyReference.cache
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\obj\Debug\net5.0\PokemonPocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\obj\Debug\net5.0\PokemonPocket.AssemblyInfoInputs.cache
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\obj\Debug\net5.0\PokemonPocket.AssemblyInfo.cs
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\obj\Debug\net5.0\PokemonPocket.csproj.CoreCompileInputs.cache
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\bin\Debug\net5.0\PokemonPocket.exe
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\bin\Debug\net5.0\PokemonPocket.deps.json
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\bin\Debug\net5.0\PokemonPocket.runtimeconfig.json
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\bin\Debug\net5.0\PokemonPocket.runtimeconfig.dev.json
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\bin\Debug\net5.0\PokemonPocket.dll
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\bin\Debug\net5.0\ref\PokemonPocket.dll
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\bin\Debug\net5.0\PokemonPocket.pdb
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\obj\Debug\net5.0\PokemonPocket.dll
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\obj\Debug\net5.0\ref\PokemonPocket.dll
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\obj\Debug\net5.0\PokemonPocket.pdb
+C:\Users\Sin Yan Chong\Desktop\PokemonPocket\obj\Debug\net5.0\PokemonPocket.genruntimeconfig.cache
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\bin\Debug\net5.0\PokemonPocket.exe
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\bin\Debug\net5.0\PokemonPocket.deps.json
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\bin\Debug\net5.0\PokemonPocket.runtimeconfig.json
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\bin\Debug\net5.0\PokemonPocket.runtimeconfig.dev.json
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\bin\Debug\net5.0\PokemonPocket.dll
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\bin\Debug\net5.0\ref\PokemonPocket.dll
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\bin\Debug\net5.0\PokemonPocket.pdb
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\obj\Debug\net5.0\PokemonPocket.csproj.AssemblyReference.cache
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\obj\Debug\net5.0\PokemonPocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\obj\Debug\net5.0\PokemonPocket.AssemblyInfoInputs.cache
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\obj\Debug\net5.0\PokemonPocket.AssemblyInfo.cs
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\obj\Debug\net5.0\PokemonPocket.csproj.CoreCompileInputs.cache
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\obj\Debug\net5.0\PokemonPocket.dll
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\obj\Debug\net5.0\ref\PokemonPocket.dll
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\obj\Debug\net5.0\PokemonPocket.pdb
+C:\Users\Sin Yan Chong\Desktop\DIT Sem1\Advanced Programming\Assignment\Codes\PokemonPocket\obj\Debug\net5.0\PokemonPocket.genruntimeconfig.cache
